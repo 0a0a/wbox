@@ -1,2 +1,0 @@
-# jbox
-Java Box
